@@ -1,5 +1,10 @@
-lecture_5.class
-Demo.class
-lecture_5.java
-lec04.java
-Demo.java
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Java build/output folders
+bin/
+out/
+target/
