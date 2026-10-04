@@ -19,7 +19,7 @@ public class Arrays {
         System.out.println(rollNums.length);
 
          */
-        // ---------------------- using for loop ------------------------
+        // ---------------------- using for loop ------------------------ 
 
         /*
 
