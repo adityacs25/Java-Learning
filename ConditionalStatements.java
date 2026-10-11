@@ -4,7 +4,7 @@ public class ConditionalStatements {
     public static void main(String[] args) {
         // boolean b = true;
         // int i = 5;
-        int i = 6;
+        int i = 8;
 
         // Selection statements
         // Normal if
